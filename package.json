@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "sendbird": "^3.1.33"
+  }
+}
